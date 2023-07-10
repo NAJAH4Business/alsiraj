@@ -1,0 +1,37 @@
+body{
+    direction: rtl;
+}
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+.p-5{
+    height: 100vh;
+    background-image: url(../img/img\ \(1\).jpg);
+    background-size: cover;
+}
+.back-img1{
+    border-radius: 20px ;
+    background-size: cover;
+    background-image: url(../img/img\ \(4\).jpg);
+}
+.back-img2{
+    border-radius: 20px ;
+    height:60vh;
+    background-size: cover;
+    background-image: url(../img/img\ \(3\).jpg);
+}
+.back-img3{
+    border-radius: 20px ;
+    height:60vh;
+    background-size: cover;
+    background-image: url(../img/img\ \(2\).jpg);
+}
+.col-sm-8{
+    text-align: center;
+}
+.nav-link{
+    text-align: center;
+    margin-bottom: 25px;
+}
+  
